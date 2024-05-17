@@ -1,1 +1,1 @@
-Bharat Intern Vistual Internship Machine Learning Models
+Bharat Intern Virtual Internship Machine Learning Models
